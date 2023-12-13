@@ -1,0 +1,19 @@
+RewriteEngine On
+
+RewriteCond %{DOCUMENT_ROOT}%{REQUEST_URI} -f [OR]
+
+RewriteCond %{DOCUMENT_ROOT}%{REQUEST_URI} -d
+
+RewriteRule ^ - [L]
+
+# Thêm cài đặt CORS ở đây
+Header set Access-Control-Allow-Origin "*"
+Header set Access-Control-Allow-Methods "GET, POST, PUT, DELETE, OPTIONS"
+Header set Access-Control-Allow-Headers "Content-Type, Authorization"
+Header set Access-Control-Allow-Credentials true
+
+
+
+# Fallback all other routes to index.html
+
+RewriteRule ^ ./index.html [L]

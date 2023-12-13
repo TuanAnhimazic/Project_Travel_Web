@@ -1,0 +1,118 @@
+.sidebar {
+  flex: 1;
+  border-right: 0.5px solid rgb(230, 227, 227);
+  min-height: 100vh;
+  background: url('https://img2.thuthuatphanmem.vn/uploads/2018/11/30/hinh-nen-trang-dep-nhat_104326572.jpg');
+}
+
+.sidebar .top {
+  height: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.sidebar .top .logo {
+  font-size: 30px;
+  font-weight: bold;
+  color: linear-gradient(269.88deg, #87cbfa 6.75%, #fadf93 95.85%);
+}
+
+.sidebar hr {
+  height: 1px;
+  border: 0.5px solid rgb(230, 227, 227);
+}
+
+.sidebar .center {
+  padding-left: 8px;
+}
+
+.sidebar ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.sidebar .title {
+  font-size: 16px;
+  font-weight: bold;
+  color: black;
+  margin-top: 15px;
+  margin-bottom: 5px;
+}
+
+.sidebar li {
+  display: flex;
+  align-items: center;
+  padding: 5px;
+  cursor: pointer;
+}
+
+.sidebar li:hover {
+  background: linear-gradient(269.88deg, #87cbfa 6.75%, #fadf93 95.85%);
+}
+
+.sidebar .icon {
+  font-size: 18px;
+  color: black;
+}
+
+.sidebar span {
+  font-size: 18px;
+  font-weight: 600;
+  color: black;
+  margin-left: 10px;
+}
+.sidebar-menu-link {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  // Or set the desired text color
+  span {
+    margin-left: .2rem; // Adjust as needed
+  }
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block; /* or block depending on your layout */
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+.dropdown-item {
+  display: block; /* Changed from flex to block for vertical layout */
+  width: 100%;
+  padding: .25rem 1rem; /* Adjust as needed */
+  clear: both;
+  text-decoration: none;
+  color: inherit; /* Or set the desired text color */
+  padding-left: 1px;
+  padding-left: 14px;
+  font-size: 18px;
+  font-weight: 600;
+  color: black;
+}
+
+.dropdown-item:hover {
+  background: linear-gradient(269.88deg, #87cbfa 6.75%, #fadf93 95.85%); /* Or any other hover color */
+}
+
+.dropdown-toggle {
+  text-decoration: none;
+  font-size: 18px;
+  font-weight: 600;
+  color: black;
+  margin-left: 10px;
+}

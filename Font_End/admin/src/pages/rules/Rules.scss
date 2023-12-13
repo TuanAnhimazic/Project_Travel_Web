@@ -1,0 +1,31 @@
+.rules {
+  display: flex;
+  background: url('https://img2.thuthuatphanmem.vn/uploads/2018/11/30/hinh-nen-trang-dep-nhat_104326572.jpg');
+  .rulesContainer {
+    flex: 6;
+     
+    /* RulesTable.css */
+.styledDiv {
+padding: 20px;
+max-width: 1400px;
+margin: 0 auto;
+text-align: center;
+}
+
+.formContainer {
+margin-bottom: 20px;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+.styledDataGridContainer {
+height: 400px;
+width: 100%;
+margin-top: 20px;
+}
+
+/* Add other styles as necessary */
+
+  }
+}

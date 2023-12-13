@@ -1,0 +1,67 @@
+.widgets{
+  display: flex; /* Sử dụng flexbox cho widget-container */
+  justify-content: space-between; /* Distribute items evenly theo chiều ngang */
+  width: 100%;
+}
+.widget {
+  display: flex;
+  justify-content: space-between;
+  width: 90%;
+  padding: 10px;
+  -webkit-box-shadow: 2px 4px 10px 1px rgba(0, 0, 0, 0.47);
+  box-shadow: 2px 4px 10px 1px rgba(201, 201, 201, 0.47);
+  border-radius: 10px;
+  height: 100px;
+ 
+}
+
+
+.widget .left,
+.widget .right {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.widget .title {
+  font-weight: bold;
+  font-size: 14px;
+  color: black;
+}
+
+.widget .counter {
+  font-size: 28px; /* Phóng to kích thước counter */
+  font-weight: 300;
+  
+}
+
+.widget .link {
+  width: max-content;
+  font-size: 12px;
+  border-bottom: 1px solid gray;
+}
+
+.widget .percentage {
+  display: flex;
+  align-items: center;
+  font-size: 14px;
+
+  &.positive {
+    color: green;
+  }
+
+  &.negative {
+    color: red;
+  }
+}
+
+.widget .icon {
+  font-size: 30px; /* Phóng to kích thước icon thành 36px */
+  padding: 5px;
+  border-radius: 5px;
+  align-self: flex-start; /* Đưa icon về bên trái */
+  border: 2px solid transparent; /* Đặt khung viền mặc định */
+  
+}
+
+

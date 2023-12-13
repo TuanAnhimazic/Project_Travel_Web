@@ -1,0 +1,50 @@
+
+.table-container {
+  width: 100%;
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.custom-table {
+  width: 100%;
+  border: 1px solid #ddd;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+.header-row {
+  display: flex;
+  background-color: #f2f2f2;
+}
+
+.header-cell,
+.data-cell {
+  flex: 1;
+  padding: 8px;
+  border: 1px solid #ddd;
+  text-align: left;
+}
+
+.data-rows {
+  display: flex;
+  flex-direction: column;
+}
+
+.data-row {
+  display: flex;
+  flex: 1;
+  align-items: center;
+}
+
+.data-row:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+
+.data-cell .MuiButton-root {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
