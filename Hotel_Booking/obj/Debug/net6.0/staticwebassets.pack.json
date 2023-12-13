@@ -1,0 +1,237 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Developer Web\\APP-BOOKING\\APP-BOOKING\\Back_End\\Hotel_Booking\\Hotel_Booking\\wwwroot\\Images\\021022a0-d650-488f-a8d2-aae164f521ad_galleryImages1.jpeg",
+      "PackagePath": "staticwebassets\\Images\\021022a0-d650-488f-a8d2-aae164f521ad_galleryImages1.jpeg"
+    },
+    {
+      "Id": "D:\\Developer Web\\APP-BOOKING\\APP-BOOKING\\Back_End\\Hotel_Booking\\Hotel_Booking\\wwwroot\\Images\\050ee2d3-ebdd-41e8-90f6-c23c79eca2e6_galleryImages0.jpeg",
+      "PackagePath": "staticwebassets\\Images\\050ee2d3-ebdd-41e8-90f6-c23c79eca2e6_galleryImages0.jpeg"
+    },
+    {
+      "Id": "D:\\Developer Web\\APP-BOOKING\\APP-BOOKING\\Back_End\\Hotel_Booking\\Hotel_Booking\\wwwroot\\Images\\06cb99bb-051f-4517-bde7-7f28a3a49c6c_featuredImage.png",
+      "PackagePath": "staticwebassets\\Images\\06cb99bb-051f-4517-bde7-7f28a3a49c6c_featuredImage.png"
+    },
+    {
+      "Id": "D:\\Developer Web\\APP-BOOKING\\APP-BOOKING\\Back_End\\Hotel_Booking\\Hotel_Booking\\wwwroot\\Images\\075935c0-b773-4267-a9e9-c88289565cf0_featuredImage.png",
+      "PackagePath": "staticwebassets\\Images\\075935c0-b773-4267-a9e9-c88289565cf0_featuredImage.png"
+    },
+    {
+      "Id": "D:\\Developer Web\\APP-BOOKING\\APP-BOOKING\\Back_End\\Hotel_Booking\\Hotel_Booking\\wwwroot\\Images\\15261480-a632-4787-9928-38d446c2c256_galleryImages0.jpeg",
+      "PackagePath": "staticwebassets\\Images\\15261480-a632-4787-9928-38d446c2c256_galleryImages0.jpeg"
+    },
+    {
+      "Id": "D:\\Developer Web\\APP-BOOKING\\APP-BOOKING\\Back_End\\Hotel_Booking\\Hotel_Booking\\wwwroot\\Images\\2084053e-0945-4973-a2ba-1e8825a2d8a2_galleryImages3.jpeg",
+      "PackagePath": "staticwebassets\\Images\\2084053e-0945-4973-a2ba-1e8825a2d8a2_galleryImages3.jpeg"
+    },
+    {
+      "Id": "D:\\Developer Web\\APP-BOOKING\\APP-BOOKING\\Back_End\\Hotel_Booking\\Hotel_Booking\\wwwroot\\Images\\230dd55f-8ae5-4587-9d98-c986364b274d_galleryImages4.jpeg",
+      "PackagePath": "staticwebassets\\Images\\230dd55f-8ae5-4587-9d98-c986364b274d_galleryImages4.jpeg"
+    },
+    {
+      "Id": "D:\\Developer Web\\APP-BOOKING\\APP-BOOKING\\Back_End\\Hotel_Booking\\Hotel_Booking\\wwwroot\\Images\\29e67200-74e6-4eb1-96bf-20c1da50f718_galleryImages3.jpeg",
+      "PackagePath": "staticwebassets\\Images\\29e67200-74e6-4eb1-96bf-20c1da50f718_galleryImages3.jpeg"
+    },
+    {
+      "Id": "D:\\Developer Web\\APP-BOOKING\\APP-BOOKING\\Back_End\\Hotel_Booking\\Hotel_Booking\\wwwroot\\Images\\3f32739a-a695-479c-b93e-bdca296ef089_galleryImages1.jpeg",
+      "PackagePath": "staticwebassets\\Images\\3f32739a-a695-479c-b93e-bdca296ef089_galleryImages1.jpeg"
+    },
+    {
+      "Id": "D:\\Developer Web\\APP-BOOKING\\APP-BOOKING\\Back_End\\Hotel_Booking\\Hotel_Booking\\wwwroot\\Images\\41816267-2fbe-40b2-9888-9d6bbf1f74ab_galleryImages3.jpeg",
+      "PackagePath": "staticwebassets\\Images\\41816267-2fbe-40b2-9888-9d6bbf1f74ab_galleryImages3.jpeg"
+    },
+    {
+      "Id": "D:\\Developer Web\\APP-BOOKING\\APP-BOOKING\\Back_End\\Hotel_Booking\\Hotel_Booking\\wwwroot\\Images\\43549461-b46a-477d-aae2-3ee5b61dd838_galleryImages4.jpeg",
+      "PackagePath": "staticwebassets\\Images\\43549461-b46a-477d-aae2-3ee5b61dd838_galleryImages4.jpeg"
+    },
+    {
+      "Id": "D:\\Developer Web\\APP-BOOKING\\APP-BOOKING\\Back_End\\Hotel_Booking\\Hotel_Booking\\wwwroot\\Images\\470c1d61-8223-40e8-911b-44247da0fddc_galleryImages2.jpeg",
+      "PackagePath": "staticwebassets\\Images\\470c1d61-8223-40e8-911b-44247da0fddc_galleryImages2.jpeg"
+    },
+    {
+      "Id": "D:\\Developer Web\\APP-BOOKING\\APP-BOOKING\\Back_End\\Hotel_Booking\\Hotel_Booking\\wwwroot\\Images\\49343ace-41d9-462a-ae1e-02730290ad45_galleryImages4.avif",
+      "PackagePath": "staticwebassets\\Images\\49343ace-41d9-462a-ae1e-02730290ad45_galleryImages4.avif"
+    },
+    {
+      "Id": "D:\\Developer Web\\APP-BOOKING\\APP-BOOKING\\Back_End\\Hotel_Booking\\Hotel_Booking\\wwwroot\\Images\\4a5d27ce-49ce-48b3-b6a8-c9f31165db94_galleryImages2.jpeg",
+      "PackagePath": "staticwebassets\\Images\\4a5d27ce-49ce-48b3-b6a8-c9f31165db94_galleryImages2.jpeg"
+    },
+    {
+      "Id": "D:\\Developer Web\\APP-BOOKING\\APP-BOOKING\\Back_End\\Hotel_Booking\\Hotel_Booking\\wwwroot\\Images\\4b649f92-9b46-4bff-a4d4-14d068bcc9a1_featuredImage.png",
+      "PackagePath": "staticwebassets\\Images\\4b649f92-9b46-4bff-a4d4-14d068bcc9a1_featuredImage.png"
+    },
+    {
+      "Id": "D:\\Developer Web\\APP-BOOKING\\APP-BOOKING\\Back_End\\Hotel_Booking\\Hotel_Booking\\wwwroot\\Images\\4c33a5bf-9140-48a8-831e-2efd85fda131_galleryImages3.jpeg",
+      "PackagePath": "staticwebassets\\Images\\4c33a5bf-9140-48a8-831e-2efd85fda131_galleryImages3.jpeg"
+    },
+    {
+      "Id": "D:\\Developer Web\\APP-BOOKING\\APP-BOOKING\\Back_End\\Hotel_Booking\\Hotel_Booking\\wwwroot\\Images\\6f9f69ee-01f8-4e62-8c0c-98baa2f63a93_galleryImages3.jpeg",
+      "PackagePath": "staticwebassets\\Images\\6f9f69ee-01f8-4e62-8c0c-98baa2f63a93_galleryImages3.jpeg"
+    },
+    {
+      "Id": "D:\\Developer Web\\APP-BOOKING\\APP-BOOKING\\Back_End\\Hotel_Booking\\Hotel_Booking\\wwwroot\\Images\\741b2c4f-c8a5-4519-9488-f11d200fafbd_galleryImages4.jpeg",
+      "PackagePath": "staticwebassets\\Images\\741b2c4f-c8a5-4519-9488-f11d200fafbd_galleryImages4.jpeg"
+    },
+    {
+      "Id": "D:\\Developer Web\\APP-BOOKING\\APP-BOOKING\\Back_End\\Hotel_Booking\\Hotel_Booking\\wwwroot\\Images\\74bf0ae7-ebc9-466a-b6af-1403cbf2bbb9_galleryImages1.jpeg",
+      "PackagePath": "staticwebassets\\Images\\74bf0ae7-ebc9-466a-b6af-1403cbf2bbb9_galleryImages1.jpeg"
+    },
+    {
+      "Id": "D:\\Developer Web\\APP-BOOKING\\APP-BOOKING\\Back_End\\Hotel_Booking\\Hotel_Booking\\wwwroot\\Images\\7c4a25f8-1ece-450e-acdb-158c8391d21e_galleryImages3.jpeg",
+      "PackagePath": "staticwebassets\\Images\\7c4a25f8-1ece-450e-acdb-158c8391d21e_galleryImages3.jpeg"
+    },
+    {
+      "Id": "D:\\Developer Web\\APP-BOOKING\\APP-BOOKING\\Back_End\\Hotel_Booking\\Hotel_Booking\\wwwroot\\Images\\7db91f30-7ae2-48a7-a62d-557a310c952b_galleryImages2.jpeg",
+      "PackagePath": "staticwebassets\\Images\\7db91f30-7ae2-48a7-a62d-557a310c952b_galleryImages2.jpeg"
+    },
+    {
+      "Id": "D:\\Developer Web\\APP-BOOKING\\APP-BOOKING\\Back_End\\Hotel_Booking\\Hotel_Booking\\wwwroot\\Images\\7e8c1ac0-656f-4c1f-9b21-f64e6ad9a851_galleryImages1.jpeg",
+      "PackagePath": "staticwebassets\\Images\\7e8c1ac0-656f-4c1f-9b21-f64e6ad9a851_galleryImages1.jpeg"
+    },
+    {
+      "Id": "D:\\Developer Web\\APP-BOOKING\\APP-BOOKING\\Back_End\\Hotel_Booking\\Hotel_Booking\\wwwroot\\Images\\8099ba64-6190-4d4c-9b49-ee3e9f2db609_galleryImages0.jpeg",
+      "PackagePath": "staticwebassets\\Images\\8099ba64-6190-4d4c-9b49-ee3e9f2db609_galleryImages0.jpeg"
+    },
+    {
+      "Id": "D:\\Developer Web\\APP-BOOKING\\APP-BOOKING\\Back_End\\Hotel_Booking\\Hotel_Booking\\wwwroot\\Images\\815f5498-d526-4cce-ba2e-8886da4ed29d_featuredImage.png",
+      "PackagePath": "staticwebassets\\Images\\815f5498-d526-4cce-ba2e-8886da4ed29d_featuredImage.png"
+    },
+    {
+      "Id": "D:\\Developer Web\\APP-BOOKING\\APP-BOOKING\\Back_End\\Hotel_Booking\\Hotel_Booking\\wwwroot\\Images\\81621fd7-bf68-4242-b258-5b0d2c1175f7_galleryImages1.jpeg",
+      "PackagePath": "staticwebassets\\Images\\81621fd7-bf68-4242-b258-5b0d2c1175f7_galleryImages1.jpeg"
+    },
+    {
+      "Id": "D:\\Developer Web\\APP-BOOKING\\APP-BOOKING\\Back_End\\Hotel_Booking\\Hotel_Booking\\wwwroot\\Images\\8ab94960-5588-4e54-a4c8-0487d2d9d634_galleryImages4.jpeg",
+      "PackagePath": "staticwebassets\\Images\\8ab94960-5588-4e54-a4c8-0487d2d9d634_galleryImages4.jpeg"
+    },
+    {
+      "Id": "D:\\Developer Web\\APP-BOOKING\\APP-BOOKING\\Back_End\\Hotel_Booking\\Hotel_Booking\\wwwroot\\Images\\8ace8044-2ece-4c5f-aecf-efd02ae88ef2_galleryImages4.jpeg",
+      "PackagePath": "staticwebassets\\Images\\8ace8044-2ece-4c5f-aecf-efd02ae88ef2_galleryImages4.jpeg"
+    },
+    {
+      "Id": "D:\\Developer Web\\APP-BOOKING\\APP-BOOKING\\Back_End\\Hotel_Booking\\Hotel_Booking\\wwwroot\\Images\\8c2cd168-4e9e-46b5-b85e-2f0bbf8463a4_galleryImages4.jpeg",
+      "PackagePath": "staticwebassets\\Images\\8c2cd168-4e9e-46b5-b85e-2f0bbf8463a4_galleryImages4.jpeg"
+    },
+    {
+      "Id": "D:\\Developer Web\\APP-BOOKING\\APP-BOOKING\\Back_End\\Hotel_Booking\\Hotel_Booking\\wwwroot\\Images\\970a9694-6fa9-40d2-ad45-edb6fd2e652c_galleryImages2.jpeg",
+      "PackagePath": "staticwebassets\\Images\\970a9694-6fa9-40d2-ad45-edb6fd2e652c_galleryImages2.jpeg"
+    },
+    {
+      "Id": "D:\\Developer Web\\APP-BOOKING\\APP-BOOKING\\Back_End\\Hotel_Booking\\Hotel_Booking\\wwwroot\\Images\\9753bb51-359d-4361-9a80-487ff65853da_galleryImages1.jpeg",
+      "PackagePath": "staticwebassets\\Images\\9753bb51-359d-4361-9a80-487ff65853da_galleryImages1.jpeg"
+    },
+    {
+      "Id": "D:\\Developer Web\\APP-BOOKING\\APP-BOOKING\\Back_End\\Hotel_Booking\\Hotel_Booking\\wwwroot\\Images\\9990d025-9bfe-4f04-94d3-7d33a90bfb74_featuredImage.png",
+      "PackagePath": "staticwebassets\\Images\\9990d025-9bfe-4f04-94d3-7d33a90bfb74_featuredImage.png"
+    },
+    {
+      "Id": "D:\\Developer Web\\APP-BOOKING\\APP-BOOKING\\Back_End\\Hotel_Booking\\Hotel_Booking\\wwwroot\\Images\\9ace2b3e-a7fa-4a8e-b8df-afb7711c155e_galleryImages0.jpeg",
+      "PackagePath": "staticwebassets\\Images\\9ace2b3e-a7fa-4a8e-b8df-afb7711c155e_galleryImages0.jpeg"
+    },
+    {
+      "Id": "D:\\Developer Web\\APP-BOOKING\\APP-BOOKING\\Back_End\\Hotel_Booking\\Hotel_Booking\\wwwroot\\Images\\a7f6b663-6c61-485c-8c0c-7e4aaed94997_galleryImages2.jpeg",
+      "PackagePath": "staticwebassets\\Images\\a7f6b663-6c61-485c-8c0c-7e4aaed94997_galleryImages2.jpeg"
+    },
+    {
+      "Id": "D:\\Developer Web\\APP-BOOKING\\APP-BOOKING\\Back_End\\Hotel_Booking\\Hotel_Booking\\wwwroot\\Images\\a9489714-5c19-4569-a07e-65d2a2f543fa_galleryImages1.jpeg",
+      "PackagePath": "staticwebassets\\Images\\a9489714-5c19-4569-a07e-65d2a2f543fa_galleryImages1.jpeg"
+    },
+    {
+      "Id": "D:\\Developer Web\\APP-BOOKING\\APP-BOOKING\\Back_End\\Hotel_Booking\\Hotel_Booking\\wwwroot\\Images\\b041d37e-554d-4043-bd52-3c29e1b6fc14_featuredImage.png",
+      "PackagePath": "staticwebassets\\Images\\b041d37e-554d-4043-bd52-3c29e1b6fc14_featuredImage.png"
+    },
+    {
+      "Id": "D:\\Developer Web\\APP-BOOKING\\APP-BOOKING\\Back_End\\Hotel_Booking\\Hotel_Booking\\wwwroot\\Images\\b0b15023-aa86-414c-80cf-e2749202a2f2_galleryImages2.jpeg",
+      "PackagePath": "staticwebassets\\Images\\b0b15023-aa86-414c-80cf-e2749202a2f2_galleryImages2.jpeg"
+    },
+    {
+      "Id": "D:\\Developer Web\\APP-BOOKING\\APP-BOOKING\\Back_End\\Hotel_Booking\\Hotel_Booking\\wwwroot\\Images\\b233ef70-61fa-47bc-a86f-c4fe8f9d6362_galleryImages2.jpeg",
+      "PackagePath": "staticwebassets\\Images\\b233ef70-61fa-47bc-a86f-c4fe8f9d6362_galleryImages2.jpeg"
+    },
+    {
+      "Id": "D:\\Developer Web\\APP-BOOKING\\APP-BOOKING\\Back_End\\Hotel_Booking\\Hotel_Booking\\wwwroot\\Images\\b4d6e556-4910-41e5-b20e-b305e1d68d09_galleryImages1.jpeg",
+      "PackagePath": "staticwebassets\\Images\\b4d6e556-4910-41e5-b20e-b305e1d68d09_galleryImages1.jpeg"
+    },
+    {
+      "Id": "D:\\Developer Web\\APP-BOOKING\\APP-BOOKING\\Back_End\\Hotel_Booking\\Hotel_Booking\\wwwroot\\Images\\b544fa38-3adf-4c50-897f-092b2d4d0d05_galleryImages3.jpeg",
+      "PackagePath": "staticwebassets\\Images\\b544fa38-3adf-4c50-897f-092b2d4d0d05_galleryImages3.jpeg"
+    },
+    {
+      "Id": "D:\\Developer Web\\APP-BOOKING\\APP-BOOKING\\Back_End\\Hotel_Booking\\Hotel_Booking\\wwwroot\\Images\\b8c7cc67-27f0-4160-b918-e37b86e50448_featuredImage.png",
+      "PackagePath": "staticwebassets\\Images\\b8c7cc67-27f0-4160-b918-e37b86e50448_featuredImage.png"
+    },
+    {
+      "Id": "D:\\Developer Web\\APP-BOOKING\\APP-BOOKING\\Back_End\\Hotel_Booking\\Hotel_Booking\\wwwroot\\Images\\ccd3e5c0-c86f-4ad0-ad3e-365609f3ca99_galleryImages3.jpeg",
+      "PackagePath": "staticwebassets\\Images\\ccd3e5c0-c86f-4ad0-ad3e-365609f3ca99_galleryImages3.jpeg"
+    },
+    {
+      "Id": "D:\\Developer Web\\APP-BOOKING\\APP-BOOKING\\Back_End\\Hotel_Booking\\Hotel_Booking\\wwwroot\\Images\\ce24b937-4a36-4cb4-b05a-b6f00f464804_galleryImages0.jpeg",
+      "PackagePath": "staticwebassets\\Images\\ce24b937-4a36-4cb4-b05a-b6f00f464804_galleryImages0.jpeg"
+    },
+    {
+      "Id": "D:\\Developer Web\\APP-BOOKING\\APP-BOOKING\\Back_End\\Hotel_Booking\\Hotel_Booking\\wwwroot\\Images\\cf422899-b665-456e-9dff-aecd994310d4_galleryImages2.jpeg",
+      "PackagePath": "staticwebassets\\Images\\cf422899-b665-456e-9dff-aecd994310d4_galleryImages2.jpeg"
+    },
+    {
+      "Id": "D:\\Developer Web\\APP-BOOKING\\APP-BOOKING\\Back_End\\Hotel_Booking\\Hotel_Booking\\wwwroot\\Images\\d2e3da5a-d041-4d3b-bf41-73624943136a_galleryImages4.jpeg",
+      "PackagePath": "staticwebassets\\Images\\d2e3da5a-d041-4d3b-bf41-73624943136a_galleryImages4.jpeg"
+    },
+    {
+      "Id": "D:\\Developer Web\\APP-BOOKING\\APP-BOOKING\\Back_End\\Hotel_Booking\\Hotel_Booking\\wwwroot\\Images\\d353ec01-5ca3-4f50-8e4c-f954761e803a_galleryImages0.jpeg",
+      "PackagePath": "staticwebassets\\Images\\d353ec01-5ca3-4f50-8e4c-f954761e803a_galleryImages0.jpeg"
+    },
+    {
+      "Id": "D:\\Developer Web\\APP-BOOKING\\APP-BOOKING\\Back_End\\Hotel_Booking\\Hotel_Booking\\wwwroot\\Images\\d5e135e5-352a-4bf2-beee-f2fe96fa3f9f_galleryImages0.jpeg",
+      "PackagePath": "staticwebassets\\Images\\d5e135e5-352a-4bf2-beee-f2fe96fa3f9f_galleryImages0.jpeg"
+    },
+    {
+      "Id": "D:\\Developer Web\\APP-BOOKING\\APP-BOOKING\\Back_End\\Hotel_Booking\\Hotel_Booking\\wwwroot\\Images\\d966712c-f2b5-4001-883e-15b886e72326_galleryImages4.jpeg",
+      "PackagePath": "staticwebassets\\Images\\d966712c-f2b5-4001-883e-15b886e72326_galleryImages4.jpeg"
+    },
+    {
+      "Id": "D:\\Developer Web\\APP-BOOKING\\APP-BOOKING\\Back_End\\Hotel_Booking\\Hotel_Booking\\wwwroot\\Images\\e3bb65ca-9bd7-47bf-8dbf-1bae0c253417_featuredImage.png",
+      "PackagePath": "staticwebassets\\Images\\e3bb65ca-9bd7-47bf-8dbf-1bae0c253417_featuredImage.png"
+    },
+    {
+      "Id": "D:\\Developer Web\\APP-BOOKING\\APP-BOOKING\\Back_End\\Hotel_Booking\\Hotel_Booking\\wwwroot\\Images\\e943c824-5c4d-4cb2-9ee2-7cca76f07f56_galleryImages3.jpeg",
+      "PackagePath": "staticwebassets\\Images\\e943c824-5c4d-4cb2-9ee2-7cca76f07f56_galleryImages3.jpeg"
+    },
+    {
+      "Id": "D:\\Developer Web\\APP-BOOKING\\APP-BOOKING\\Back_End\\Hotel_Booking\\Hotel_Booking\\wwwroot\\Images\\eeefa4bf-60f0-468d-8fb6-04a36cf26053_featuredImage.png",
+      "PackagePath": "staticwebassets\\Images\\eeefa4bf-60f0-468d-8fb6-04a36cf26053_featuredImage.png"
+    },
+    {
+      "Id": "D:\\Developer Web\\APP-BOOKING\\APP-BOOKING\\Back_End\\Hotel_Booking\\Hotel_Booking\\wwwroot\\Images\\f688a41b-6448-4c31-b8f4-d79e69d3872a_galleryImages0.jpeg",
+      "PackagePath": "staticwebassets\\Images\\f688a41b-6448-4c31-b8f4-d79e69d3872a_galleryImages0.jpeg"
+    },
+    {
+      "Id": "D:\\Developer Web\\APP-BOOKING\\APP-BOOKING\\Back_End\\Hotel_Booking\\Hotel_Booking\\wwwroot\\Images\\f95f5418-83c5-4b65-8fa7-5b2e2331d75f_galleryImages1.jpeg",
+      "PackagePath": "staticwebassets\\Images\\f95f5418-83c5-4b65-8fa7-5b2e2331d75f_galleryImages1.jpeg"
+    },
+    {
+      "Id": "D:\\Developer Web\\APP-BOOKING\\APP-BOOKING\\Back_End\\Hotel_Booking\\Hotel_Booking\\wwwroot\\Images\\ff41775c-7cd8-41d7-af0a-7f12ed5168b9_galleryImages0.jpeg",
+      "PackagePath": "staticwebassets\\Images\\ff41775c-7cd8-41d7-af0a-7f12ed5168b9_galleryImages0.jpeg"
+    },
+    {
+      "Id": "D:\\Developer Web\\APP-BOOKING\\APP-BOOKING\\Back_End\\Hotel_Booking\\Hotel_Booking\\wwwroot\\Images\\ff7791a1-d0cc-49d9-9e0d-b28c400f1709_galleryImages2.jpeg",
+      "PackagePath": "staticwebassets\\Images\\ff7791a1-d0cc-49d9-9e0d-b28c400f1709_galleryImages2.jpeg"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Hotel_Booking.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Hotel_Booking.props",
+      "PackagePath": "build\\Hotel_Booking.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Hotel_Booking.props",
+      "PackagePath": "buildMultiTargeting\\Hotel_Booking.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Hotel_Booking.props",
+      "PackagePath": "buildTransitive\\Hotel_Booking.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
